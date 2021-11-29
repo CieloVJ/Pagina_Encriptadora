@@ -7,7 +7,7 @@ header{background-color:rgb(35, 13, 114); width: 100%;
 footer{background-color:rgb(35, 13, 114); width: 100%; 
     overflow: hidden;
     line-height: 70px;
-    color: rgb(35, 13, 114);
+    color: white;
 }
 
 body{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -87,6 +87,15 @@ textarea{background-color: rgb(231, 231, 231);
     margin-bottom: 15px;
 }
 
-/*.Face{background: https://cdn.onlinewebfonts.com/svg/img_2647.png;}*/
+.Face{background-color: transparent;
+    border: none;
+    color: white;
+}
+.iconf{margin-left: 10px;}
+
+.twitter{background-color: transparent;
+    border: none;
+}
+.icont{margin-left: 10px;}
 
 
